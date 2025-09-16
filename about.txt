@@ -1,0 +1,5 @@
+
+P.keerthi
+BSC_COMPUTER SCIENCE
+GitHub is a web-based platform that uses Git, a version control system, to help developers manage and track changes in their code. It allows multiple people to collaborate on a project, track revisions, and contribute to code from anywhere in the world.
+
